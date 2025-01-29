@@ -59,3 +59,10 @@ BibTex code:
 ```
 
 The dataset used in the journal is [available here](https://github.com/jsantospaz/uspceu_crom_vr_assessment).
+
+## Video
+
+Here is a video with a demonstration of the application.
+
+https://github.com/user-attachments/assets/97e5e083-17a4-4632-b6b4-d586e04ef26e
+
